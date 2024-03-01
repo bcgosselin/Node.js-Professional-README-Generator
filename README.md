@@ -20,7 +20,7 @@ requires Inquirer package: https://www.npmjs.com/package/inquirer/v/8.2.4
 ## Usage
 please view attached video link for usage instructions:
 
-https://app.screencastify.com/v3/watch/94G1Qc1ZVxPXhPNnMJqC
+https://drive.google.com/file/d/1KDEdlWplGYZnfYMy1_bgU7xURqDWDFgb/view
 
 ## License
 [![License Badge](https://img.shields.io/badge/MIT-yellow)]()
@@ -33,6 +33,8 @@ referenced for guidance: https://github.com/connietran-dev/readme-generator/blob
 referenced for guidance: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 starter code: https://github.com/coding-boot-camp/potential-enigma
+
+assistance from a friend for overall structure
 
 
 ## Tests
