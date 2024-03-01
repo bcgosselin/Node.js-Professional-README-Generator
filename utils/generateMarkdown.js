@@ -34,17 +34,32 @@ For questions about the project, please contact [${data.author}](https://github.
 `;
 }
 
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
-function renderLicenseBadge(license) {}
-
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
-function renderLicenseLink(license) {}
-
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
-function renderLicenseSection(license) {}
-
+// Function that generates license badge and link
+function renderLicenseBadge(license) {
+    let badgeURL = '';
+    switch (license) {
+        case 'MIT':
+            badgeURL = 'https://img.shields.io/badge/MIT-yellow';
+            break;
+        case 'GNU GPLv3':
+            badgeURL = 'https://img.shields.io/badge/GPLv3-blue';
+            break;
+        case 'Apache 2.0':
+            badgeURL = 'https://img.shields.io/badge/Apache_2.0-blue';
+            break;
+        case 'ISC':
+            badgeURL = 'https://img.shields.io/badge/ISC-blue';
+            break;
+        default:
+            // No badge for None or other licenses
+            return '';
+    }
+    // Function to generate license link
+    function renderLicenseLink(license) {
+        
+        return '';
+    }
+    return `[![License Badge](${badgeURL})](${renderLicenseLink(license)})`;
+}
 
 module.exports = generateMarkdown;
