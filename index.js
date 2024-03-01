@@ -1,7 +1,7 @@
 // packages needed
 const fs = require('fs');
 const inquirer = require('inquirer');
-const generateMarkdown = require('./generateMarkdown');
+const generateMarkdown = require('./utils/generateMarkdown');
 
 // questions array
 const questions = [
