@@ -20,7 +20,7 @@ requires Inquirer package: https://www.npmjs.com/package/inquirer/v/8.2.4
 ## Usage
 please view attached video link for usage instructions:
 
-https://drive.google.com/file/d/1KDEdlWplGYZnfYMy1_bgU7xURqDWDFgb/view
+https://drive.google.com/file/d/1KDEdlWplGYZnfYMy1_bgU7xURqDWDFgb/view?usp=sharing
 
 ## License
 [![License Badge](https://img.shields.io/badge/MIT-yellow)]()
