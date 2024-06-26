@@ -1,6 +1,8 @@
 
 # Node.js: Professional README Generator
 
+Created a command-line application using Inquirer.js to automate the generation of README files. Prompted users for project details and generated markdown content with license badges and links. Recorded and submitted a demonstration video of the application.
+
 ## Repo Link
 
 https://bcgosselin.github.io/module-9-challenge/
